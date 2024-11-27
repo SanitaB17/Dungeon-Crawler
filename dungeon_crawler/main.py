@@ -16,4 +16,4 @@ while run:
         if event == pygame.Quit:
             run = False
             
-paygame.quit()
+pygame.quit()
